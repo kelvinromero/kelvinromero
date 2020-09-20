@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [Control Construções](https://www.linkedin.com/company/control-construções-ltda-/mycompany/)...
 - :desktop_computer: ...with ruby, javascript, css, html.
-- 🌱 I'm learning Rspec, Capistrano and habit formation.
+- 🌱 I'm learning RSpec, Capistrano and habit formation.
 - 🎙 I experimented having a [podcast](https://anchor.fm/kelvin-romero). (Failed/Course correction)
 - :card_file_box: Sometimes writing @[Medium](https://medium.com/@kelvinromero)
 - ⚡ Fun facts: 
