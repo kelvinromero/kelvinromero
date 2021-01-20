@@ -1,6 +1,6 @@
 #### Ahoy 👋
 
-- 🔭 I’m currently working at [Control Construções](https://www.linkedin.com/company/control-construções-ltda-/mycompany/)...
+- 🔭 I’m currently working with [Fundação Estudar](https://www.estudar.org.br).
 - :desktop_computer: ...with ruby, javascript, css, html.
 - 🌱 I'm learning RSpec, Capistrano and habit formation.
 - 🎙 I experimented having a [podcast](https://anchor.fm/kelvin-romero). (Failed/Course correction)
