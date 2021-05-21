@@ -1,13 +1,9 @@
 #### Ahoy 👋
 
 - 🔭 I’m currently working with [Fundação Estudar](https://www.estudar.org.br).
-- :desktop_computer: ...with ruby, javascript, css, html.
-- 🌱 I'm learning RSpec, Capistrano and habit formation.
-- 🎙 I experimented having a [podcast](https://anchor.fm/kelvin-romero). (Failed/Course correction)
-- :card_file_box: Sometimes writing @[Medium](https://medium.com/@kelvinromero)
-- ⚡ Fun facts: 
-  - I challenged myself to do 1700 push ups in a week (I freaking did it!).
-  - Blue Beetle Fan.
+- Recently deployed [Arca.cc](https://arca.cc)
+
+Ruby | Rails | Rspec | JavaScript | Heroku | Aws | Git Actions 
 
 #### Get int touch
 
