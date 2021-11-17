@@ -1,7 +1,6 @@
 #### Ahoy 👋
 
-- 🔭 I’m currently working with [Fundação Estudar](https://www.estudar.org.br).
-- Recently deployed [Arca.cc](https://arca.cc) for a [client](https://www.instagram.com/extratodecinema/)
+- 🔭 I’m currently working at [CargoX](https://cargox.com.br/).
 
 Ruby | Rails | Rspec | JavaScript | Heroku | Aws | Git Actions 
 
