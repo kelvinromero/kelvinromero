@@ -1,8 +1,8 @@
 #### Ahoy 👋
 
-- 🔭 I’m currently working at [CargoX](https://cargox.com.br/).
+- 🔭 I’m currently working at [FreteBras](https://fretebras.com.br/).
 
-Ruby | Rails | Rspec | JavaScript | Heroku | Aws | Git Actions 
+PHP Laravel PHPUnit | Ruby Rails Rspec | JavaScript | Heroku | Aws | Git Actions 
 
 #### Get int touch
 
